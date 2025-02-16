@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Room Rental & House Selling](https://www.kedeshlimited.com/)
 
-- 🌱 I’m currently learning **Micro Service with Spring boot and ML**
+- 🌱 I’m currently learning **Micro Service using Spring boot and ML**
 
 - 👨‍💻 All of my projects are available at [https://mcharo-portfolio.vercel.app/](https://mcharo-portfolio.vercel.app/)
 
