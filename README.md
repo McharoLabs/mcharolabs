@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AD2FF&center=true&vCenter=true&width=435&lines=Passionate+about+building+robust+systems;Spring+Boot+Microservices+Advocate;Lover+of+Clean+Code+and+Scalability;Always+Brewing+Coffee+%F0%9F%8D%95;Let's+build+amazing+products+!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20|%20Grafana%20|%20Prometheus-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React%20|%20Vue%20|%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
 ---
 
 <img 
@@ -23,19 +30,24 @@
 ### 🚀 **What I'm Working On**
 
 - 🏠 [Room Rental & House Selling Platform](https://rental.seranise.co.tz/)  
+  ![Spring Boot](https://img.shields.io/badge/BackEnd-SpringBoot-6DB33F?style=flat&logo=springboot) ![React](https://img.shields.io/badge/FrontEnd-React-61DAFB?style=flat&logo=react)  
+
 - 🎓 [USCHE - United States College of Health & Education](https://usche.ac.tz/)  
+  ![Django](https://img.shields.io/badge/BackEnd-Django-092E20?style=flat&logo=django) ![Vue.js](https://img.shields.io/badge/FrontEnd-Vue-42b883?style=flat&logo=vue.js)  
+
 - 🖥️ [My Personal Portfolio](https://portfolio.seranise.co.tz/)  
+  ![Next.js](https://img.shields.io/badge/Next.js-WebApp-black?style=flat&logo=next.js)  
 
 ---
 
 ### 💡 **About Me**
 
-- 🔭 Currently sharpening my skills in **Spring Boot Microservices**, with a focus on real-world architecture  
+- 🔭 Currently sharpening my skills in **Spring Boot Microservices**, with a strong focus on real-world distributed system architecture  
 - 🛠️ My Microservices Stack includes:  
-  **Spring Boot**, **Docker**, **Kubernetes**, **Prometheus**, **Grafana**, **Zipkin**, **Eureka**, **Gateway API**, **Distributed Tracing**, **Centralized Logging**, **Resilience4j**, **RabbitMQ**, **Kafka** and more  
-- 📚 Always eager to learn more and build scalable, fault-tolerant, observable systems  
+  **Spring Boot**, **Docker**, **Kubernetes**, **Prometheus**, **Grafana**, **Zipkin**, **Eureka**, **API Gateway**, **Distributed Tracing**, **Centralized Logging**, **Resilience4j**, **RabbitMQ**, **Kafka** and more  
+- 📚 Constantly exploring: Scalable APIs, Observability, Fault Tolerance, Clean Code, and CI/CD automation  
 - 💬 Ask me about:  
-  `ReactJS` | `VueJS` | `NextJS` | `Spring Boot Microservices` | `Django` | `DevOps` | `Kubernetes` | `Docker`  
+  `Spring Boot Microservices` | `ReactJS` | `VueJS` | `NextJS` | `Django` | `Kubernetes` | `Docker` | `DevOps`  
 - ⚡ Fun Fact: *When I'm not coding, I'm probably debating architecture patterns or brewing the perfect cup of coffee ☕*  
 - 📫 Reach me: **mcharoprofg23@gmail.com**  
 
@@ -66,46 +78,6 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Prometheus_logo.svg" alt="Prometheus" width="40" height="40"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Grafana_icon.svg" alt="Grafana" width="40" height="40"/></a>
-  <a href="https://zipkin.io/" target="_blank"><img src="https://zipkin.io/public/img/zipkin-logo.svg" alt="Zipkin" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-</p>
-
-### 🛠️ **Languages & Tools**
-
-<p align="left">
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
-  
-  <a href="https://zipkin.io/" target="_blank">
-  <img src="https://zipkin.io/public/img/zipkin-logo.svg" alt="Zipkin" width="80" height="20"/>
-</a>
-
-  <a href="https://zipkin.io/" target="_blank"><img src="https://zipkin.io/public/img/zipkin-logo.svg" alt="Zipkin" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-</p>
-
-
-### 🛠️ **Languages & Tools**
-
-<p align="left">
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
   <a href="https://zipkin.io/" target="_blank"><img src="https://zipkin.io/public/img/logo_png/zipkin_vertical_grey_gb.png" alt="Zipkin" width="40" height="40"/></a>
@@ -116,8 +88,6 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
 </p>
-
-
 
 ---
 
@@ -134,6 +104,13 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=McharoLabs&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🧠 **Mindset**
+
+> "The best systems are not only scalable, but observable, resilient, and built with love for clean architecture."  
+> — *Godfrey Elia Mcharo*  
 
 ---
 
