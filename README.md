@@ -48,7 +48,7 @@
   **Spring Boot**, **Docker**, **Kubernetes**, **Prometheus**, **Grafana**, **Zipkin**, **Eureka**, **API Gateway**, **Distributed Tracing**, **Centralized Logging**, **Resilience4j**, **RabbitMQ**, **Kafka** and more  
 - 📚 Constantly exploring: Scalable APIs, Observability, Fault Tolerance, Clean Code, and CI/CD automation  
 - 💬 Ask me about:  
-  `Spring Boot Microservices` | `ReactJS` | `VueJS` | `NextJS` | `Django` | `Kubernetes` | `Docker` | `DevOps`  
+  `Spring Boot Microservices` | `NestJs` | | `ReactJS` | `VueJS` | `NextJS` | `Django` | `Kubernetes` | `Docker` | `DevOps`  
 - ⚡ Fun Fact: *When I'm not coding, I'm probably debating architecture patterns or brewing the perfect cup of coffee ☕*  
 - 📫 Reach me: **mcharoprofg23@gmail.com**  
 
