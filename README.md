@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer | Spring Boot Microservices Enthusiast | Scalable Web & Mobile Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AD2FF&center=true&vCenter=true&width=435&lines=Passionate+about+building+robust+systems;Spring+Boot+Microservices+Advocate;Lover+of+Clean+Code+and+Scalability;Always+Brewing+Coffee+%F0%9F%8D%95;Let's+build+amazing+products+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AD2FF&center=true&vCenter=true&width=700&lines=Passionate+about+building+robust+systems;Spring+Boot+Microservices+Advocate;Lover+of+Clean+Code+and+Scalability;Always+Brewing+Coffee+%F0%9F%8D%95;Let's+build+amazing+products+!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
