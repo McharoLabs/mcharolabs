@@ -31,13 +31,13 @@
 ### 🚀 **What I'm Working On**
 
 - 🏠 [Room Rental & House Selling Platform](https://rental.seranise.co.tz/)  
-  ![Spring Boot](https://img.shields.io/badge/BackEnd-SpringBoot-6DB33F?style=flat&logo=springboot) ![React](https://img.shields.io/badge/FrontEnd-React-61DAFB?style=flat&logo=react)  
+  ![Django](https://img.shields.io/badge/BackEnd-Django-092E20?style=flat&logo=django) ![React](https://img.shields.io/badge/FrontEnd-React-61DAFB?style=flat&logo=react)
 
-- 🎓 [USCHE - United States College of Health & Education](https://usche.ac.tz/)  
-  ![Django](https://img.shields.io/badge/BackEnd-Django-092E20?style=flat&logo=django) ![Vue.js](https://img.shields.io/badge/FrontEnd-Vue-42b883?style=flat&logo=vue.js)  
+- 🎓 [USCHE - UDOM Scientific Conference on Health](https://usche.ac.tz/)  
+  ![Django](https://img.shields.io/badge/BackEnd-Django-092E20?style=flat&logo=django) ![React](https://img.shields.io/badge/FrontEnd-React-61DAFB?style=flat&logo=react)
 
 - 🖥️ [My Personal Portfolio](https://portfolio.seranise.co.tz/)  
-  ![Next.js](https://img.shields.io/badge/Next.js-WebApp-black?style=flat&logo=next.js)  
+  ![Next.js](https://img.shields.io/badge/Next.js-WebApp-black?style=flat&logo=next.js)
 
 ---
 
